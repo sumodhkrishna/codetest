@@ -1,0 +1,14 @@
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\bin\Debug\netcoreapp2.2\DeliveryServiceApi.deps.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\bin\Debug\netcoreapp2.2\DeliveryServiceApi.runtimeconfig.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\bin\Debug\netcoreapp2.2\DeliveryServiceApi.runtimeconfig.dev.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\bin\Debug\netcoreapp2.2\DeliveryServiceApi.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\bin\Debug\netcoreapp2.2\DeliveryServiceApi.pdb
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.csproj.CoreCompileInputs.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.RazorAssemblyInfo.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.RazorAssemblyInfo.cs
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.AssemblyInfoInputs.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.AssemblyInfo.cs
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.RazorTargetAssemblyInfo.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.pdb
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api\obj\Debug\netcoreapp2.2\DeliveryServiceApi.csprojAssemblyReference.cache

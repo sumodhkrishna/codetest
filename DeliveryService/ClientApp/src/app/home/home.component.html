@@ -1,0 +1,106 @@
+<table class="table">
+  <thead>
+
+    <tr>
+      <th scope="col">
+        Order ID
+      </th>
+      <th scope="col">
+        Distance
+      </th>
+      <th scope="col">
+        Floor
+      </th>
+      <th scope="col">
+        Weekend Delivery
+      </th>
+      <th scope="col">
+        New Customer
+      </th>
+      <th scope="col">
+        Golden Rated Customer
+      </th>
+      <th scope="col">
+        Has Coupen
+      </th>
+      <th scope="col">
+        Base Cost
+      </th>
+      <th scope="col">
+        Total Cost
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let o of orders">
+      <td>
+        {{o.id}}
+      </td>
+      <td>
+        {{o.distance}}
+      </td>
+      <td>
+        {{o.floor}}
+      </td>
+      <td>
+        
+        <input type="checkbox" [(ngModel)]="o.weekendDelivery">
+      </td>
+      <td>
+        <input type="checkbox" [(ngModel)]="o.newCustomer">
+       
+        </td>
+      <td>
+          <input type="checkbox" [(ngModel)]="o.goldRated">
+        
+      </td>
+      <td>
+          <input type="checkbox" [(ngModel)]="o.hasCoupen">
+     
+      </td>
+      <td>
+          {{o.baseCost}}
+      </td>
+      <td>
+        {{o.totalCost}}
+      </td>
+     
+    </tr>
+    <tr>
+        <td>
+          
+        </td>
+        <td>
+          <input class="form-control" type="number" [(ngModel)]="objectToSave.distance">
+          
+        </td>
+        <td>
+            <input class="form-control" type="number" [(ngModel)]="objectToSave.floor">
+          
+        </td>
+        <td>
+          
+          <input type="checkbox" [(ngModel)]="objectToSave.weekendDelivery">
+        </td>
+        <td>
+          <input type="checkbox" [(ngModel)]="objectToSave.newCustomer">
+         
+          </td>
+        <td>
+            <input type="checkbox" [(ngModel)]="objectToSave.goldRated">
+          
+        </td>
+        <td>
+            <input type="checkbox" [(ngModel)]="objectToSave.hasCoupen">
+       
+        </td>
+        <td>
+            <input class="form-control" type="number" [(ngModel)]="objectToSave.baseCost">
+        </td>
+        <td>
+          <button class="btn btn-primary btn-sm" (click)="save()">Calculate Total</button>
+        </td>
+       
+      </tr>
+  </tbody>
+</table>

@@ -1,0 +1,17 @@
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApiTest.deps.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApiTest.runtimeconfig.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApiTest.runtimeconfig.dev.json
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApiTest.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApiTest.pdb
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApi.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\bin\Debug\netcoreapp2.2\DeliveryServiceApi.pdb
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.csprojAssemblyReference.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.csproj.CoreCompileInputs.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.AssemblyInfoInputs.cache
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.AssemblyInfo.cs
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.csproj.CopyComplete
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.dll
+C:\Users\sumod\source\repos\DeliveryService\DeliveryService-Api-Test\obj\Debug\netcoreapp2.2\DeliveryServiceApiTest.pdb
